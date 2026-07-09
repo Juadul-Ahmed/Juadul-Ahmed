@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jaadul-Ahmed/Jaadul-Ahmed/main/assets/banner.png" width="100%" alt="Banner" />
+  <img src="https://github.com/Jaadul-Ahmed/Jaadul-Ahmed/blob/main/assets/banner.png" width="100%" alt="Banner" />
 </p>
 
 ### 👋 Hi, I'm Juadul Ahmed Bhuiyan
