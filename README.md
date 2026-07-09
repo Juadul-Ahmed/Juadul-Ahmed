@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/cover.jpg" alt="Banner" width="100%">
+</p>
 ### 👋 Hi, I'm Juadul Ahmed Bhuiyan
 ### MERN Stack Developer
 
