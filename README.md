@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Jaadul-Ahmed/Jaadul-Ahmed/blob/main/assets/banner.png" width="100%" alt="Banner" />
-</p>
-
 ### 👋 Hi, I'm Juadul Ahmed Bhuiyan
 ### MERN Stack Developer
 
