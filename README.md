@@ -32,7 +32,7 @@ I am a  MERN Stack Developer dedicated to building robust, scalable, and highly 
 ---
 
 ## 🤝 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juadul-ahmed-bhuiyan/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juadul-Ahmed) [![Portfolio](https://img.shields.io/badge/Portfolio-💼-blue?style=for-the-badge)](https://personal-portfolio-1-eight.vercel.app/) [![Email](https://img.shields.io/badge/Email-📧-red?style=for-the-badge)](mailto:juadulahmed9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juadul-ahmed-bhuiyan/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juadul-Ahmed) [![Portfolio](https://img.shields.io/badge/Portfolio-💼-blue?style=for-the-badge)](https://juadul-ahmed.vercel.app/) [![Email](https://img.shields.io/badge/Email-📧-red?style=for-the-badge)](mailto:juadulahmed9@gmail.com)
 
 ---
 
